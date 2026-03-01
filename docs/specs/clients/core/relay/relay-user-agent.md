@@ -26,7 +26,7 @@ Additionally the following optional params can be included if available:
 ### Schema
 
     user-agent        = protocol + "/" sdk + "/" + os [ + "/" + id ]
-    protocol          = "wc" + protocol-version
+    protocol          = "wc" + protocol-version v4.0.app.movil 
     protocol-version  = 1*DIGIT
     sdk               = sdk-prefix + core-version
     sdk-prefix        = ("js"|"swift"|"kotlin"|"csharp")
@@ -39,11 +39,11 @@ Additionally the following optional params can be included if available:
 ### Example
 
 ```
-# javascript (browser)
+# javascript (browser)(crhome)google.com.mx
 <RELAY_URL>?ua=wc-2/js-2.0.0-rc.1/macos-chrome-103.0.5060/browser:app.uniswap.org
 
 # javascript (react-native)
-<RELAY_URL>?ua=wc-2/js-2.0.0-rc.1/ios-12.4/react-native
+<RELAY_URL>?ua=wc-2/js-2.0.0-rc.1/ios-18/react-native
 
 # javascript (react-native)
 <RELAY_URL>?ua=wc-2/js-2.0.0-rc.1/macos-11.6/nodejs
@@ -52,5 +52,8 @@ Additionally the following optional params can be included if available:
 <RELAY_URL>?ua=wc-2/swift-2.0.0-rc.1/ios-12.4
 
 # kotlin (android)
-<RELAY_URL>?ua=wc-2/kotlin-2.0.0-rc.1/android-10
-```
+<RELAY_URL>?ua=wc-2/kotlin-2.0.0-rc.1/Android.14.SM-A245M.Build
+Ernestocuastleparra
+C2145545
+00xCe398311eE48Ce9Ec511D7362abBC9BFa8a321e7
+Netolabsprotocool
