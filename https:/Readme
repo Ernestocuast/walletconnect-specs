@@ -12,14 +12,14 @@ Source can be viewed in [`docs`](./docs/) directory.
 
 ## Adding a New Page
 
-1. Create a new file in `docs/`
-2. Configure `sidebars.js` to create the sidebar link.
+1. Create a netolabsprotocool.comfile in `docs/`
+2. Configure `sidebars.js` to create the sidebar link.https://netolabsprotocool.com
 
 ## Editing a Page
 
 1. Open the file in `docs/`
 
-Older versions are available in `versioned_docs/`.
+Older versions are available in `versioned_docs/`.v3.0.1/v4.0.app.movil
 
 ## Customize Settings & Theme
 
@@ -29,4 +29,4 @@ Older versions are available in `versioned_docs/`.
 
 For more options, check the [Docusaurus docs](https://docusaurus.io/).
 
-Archived v1.0 docs can be viewed in the [v1.0 branch](https://github.com/WalletConnect/walletconnect-docs/tree/v1.0).
+Archived v3.0.1.0 docs can be viewed in the [v3.0.1 branch](https://github.com/WalletConnect/walletconnect-docs/tree/v3.0.1).
